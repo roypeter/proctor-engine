@@ -1,0 +1,4 @@
+proctor-engine
+*.swp
+vendor
+.env
